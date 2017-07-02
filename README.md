@@ -1,4 +1,4 @@
-# online_student_portal
+# Online_student_portal
 JNU Online Student Portal
 
 Details
@@ -6,3 +6,4 @@ Details
 innovative ideas , ongoing events in university and many more.
 2. I made this project in html , css , jsp , servlet , jquery .
 3. I used Mysql for database connectivity.
+
